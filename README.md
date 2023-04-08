@@ -4,12 +4,14 @@ Project inspired by <a href="https://github.com/Meghs1424/Rasa-FAQ-Chatbot-for-V
 
 This is a chatbot for frequently asked questions related to VIT made with the help of RASA.<br/>
 A very important step in this project is to first create a special environment in Anaconda for the project and activate it after creating a virtual environment.<br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/82451914/230616417-02d5aac4-6931-43a2-bdd4-1412fa7c49aa.png"/>
+<br/>
 
-Chatbot looks like: <br/>
+<h4>Chatbot looks like: </h4><br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/82451914/230616802-69e57da6-96b4-4e62-a752-6761c417a7d4.png"/>
-
-
+<br/>
 
 
 The following links provided great help while making the project: <br/>
